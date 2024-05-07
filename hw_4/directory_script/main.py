@@ -1,7 +1,3 @@
-# ДИРЕКТОРІЯ python3 main.py /Users/borysdudnyk/Documents/Pyton_goit/Pyton_conspect/exemple_joke
-
-# ФАЙЛ python3 main.py /Users/borysdudnyk/Documents/Pyton_goit/Pyton_conspect/exemple_joke/joke/jokes_handler.py
-
 from pathlib import Path
 import sys
 from handlers import print_dir
